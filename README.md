@@ -1,7 +1,5 @@
 # PWA-Text-Editor
 
-# pwa-text-editor
-
 ## Table of Contents
 
 * [Description](#description)
@@ -31,7 +29,7 @@ To create this application, I used:
 
 ### Screenshot of Application
 
-![Screenshot of application](./assets/images/screenshot-of-application.png)
+![Screenshot of application](./assets/screenshot-of-application.png)
 
 ## Access
 
